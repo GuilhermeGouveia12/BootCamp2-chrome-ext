@@ -1,0 +1,15 @@
+body {
+  font-family: Verdana, sans-serif;
+  padding: 15px;
+  width: 220px;
+}
+button {
+  padding: 7px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+#status {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: blue;
+}
